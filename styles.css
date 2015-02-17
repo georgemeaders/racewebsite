@@ -1,6 +1,0 @@
-body  {background-color: black}
-section.main {background:url(background.jpg); background-repeat:no-repeat; background-position: fixed;background-position: center top;text-align: center;}
-ul {text-align:center;background-color: rgba(0, 255, 100, 0.4); display: inline-block; width: 60em; margin-right: 2px; margin-left: 2px}
-li {display:inline; text-align:center; padding:0.25em; border-color: red; border-width: 10px; border-left: solid 2px red; border-right: solid 2px red;}
-
-section {width: 500px; background-color: white;border-color: red; border-width: 10px; padding: 1em; margin-left: 15em}
