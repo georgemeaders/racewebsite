@@ -126,6 +126,7 @@ nav ul a {
   margin: 0 auto;
   position: relative;
   padding: 0 2%;
+ 
 }
 
 * {
@@ -134,7 +135,7 @@ nav ul a {
 
 body {
   color: #8f8f8f;
-  background: white;
+  background: rgba(188, 211, 234, 0.59);
   font-family: "Cardo", serif;
   font-weight: 300;
   -webkit-font-smoothing: antialiased;
@@ -149,7 +150,9 @@ h1 {
   line-height: 1.8;
   text-transform: uppercase;
   font-family: "Montserrat", sans-serif;
+  color: 
 }
+
 
 p {
   margin-bottom: 20px;
